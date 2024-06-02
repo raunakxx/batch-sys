@@ -1,0 +1,14 @@
+{
+  "name": "app_landing_page_finance_bank_money_community",
+  "version": "1.0.0",
+  "description": "A landing page for a finance and banking community app.",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build ./*.html --dist-dir ./build"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
